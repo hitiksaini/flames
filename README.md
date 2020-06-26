@@ -38,3 +38,5 @@ FE
 Last:
 F
 So the result is 'Friend'.
+
+## you can create pull rq. for a better version😉
