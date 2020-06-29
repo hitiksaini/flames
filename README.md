@@ -1,4 +1,4 @@
-## Flames Calculator 🤩😍 created by [hitik](https://hitik20.tech/)
+## Flames Calculator 🤩😍 created by [Hitik Saini](https://hitik20.tech/)
 # How it works?
 
 ## What is FlamesGame?
