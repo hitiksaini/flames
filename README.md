@@ -1,14 +1,22 @@
-## Flames Calculator 🤩😍 created by [Hitik Saini](https://hitik20.tech/)
-# How it works?
+# Flames Calculator 🤩😍 
+## Project by [Hitik Saini](https://hitik20.tech/)
 
+# How it works?
 ## What is FlamesGame?
 FlamesGame is a relationship calculating algorithm famous between the youngsters. At the time of graduation everyone might heard about this and many of them tried out this secretly. Some took this as very serious also. So what FLAMES stance for?
+
 F - Friendship
+
 L - Love
+
 A - Affection
+
 M - Marriage
+
 E - Enemy
+
 S - Sister (Sibling)
+
 
 ## How we can calculate the FLAMES?
 It is very easy to explain with some example:
